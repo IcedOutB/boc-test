@@ -1,0 +1,116 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 57,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 286,
+        "h": 286
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 174,
+        "y": 0,
+        "w": 169,
+        "h": 167
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 67,
+        "w": 167,
+        "h": 169
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 300
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 0,
+        "y": 175,
+        "w": 211,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 47,
+        "w": 211,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 300
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 342,
+        "y": 0,
+        "w": 171,
+        "h": 170
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 65,
+        "w": 170,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 300
+      }
+    },
+    "4": {
+      "frame": {
+        "x": 0,
+        "y": 382,
+        "w": 355,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 25,
+        "w": 355,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "lens.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 733
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}
